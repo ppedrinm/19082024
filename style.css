@@ -1,0 +1,57 @@
+.bloco-principal{
+    
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.bloco-secundario{
+    background-color: white;
+    box-shadow: 3px 3px 3px 1px ;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 4%;
+    margin-top: 20%;
+    margin-left: 30%;
+    padding-left: 4%;
+    width: 50%;
+} 
+
+.texto-h1{
+    padding-right: 40%;
+}
+
+.us{
+    margin-right: 0%;
+}
+
+.email{
+    width: 40%;
+    margin-right: 30%;
+}
+
+.sen{
+    margin-right: 0%;
+}
+
+.senha{
+    width: 40%;
+    margin-right: 30%;
+}
+
+.but{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+    margin-top: 20px;
+    margin-right: 70%;
+}
+
+body{
+    background-color: rgb(171, 186, 209);
+}
+
+.esq-sen{
+    color: blueviolet;
+}
